@@ -1,4 +1,4 @@
-# CAG-CacheAugmentedGeneration-
+# CAG-CacheAugmentedGeneration
 Cache-Augmented Generation (CAG): Advanced Context Management
 
 # Cache-Augmented Generation (CAG): Advanced Context Management
